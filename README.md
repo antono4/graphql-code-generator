@@ -55,3 +55,7 @@ Help us keep GraphQL Codegenerator open and inclusive. Please read and follow ou
 [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg?maxAge=2592000)](https://raw.githubusercontent.com/apollostack/apollo-ios/master/LICENSE)
 
 MIT
+
+---
+
+> **Created by Antono**
